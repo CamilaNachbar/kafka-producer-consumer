@@ -4,7 +4,8 @@ kafka project
 Projeto desenvolvimento para complementar o workshop de Event Driven e Mensageria - Paula Macedo e Camila Nachbar
 
 
-------------------------- KAFKA-----------------------------------
+------------------------- KAFKA----------------------------------- 
+Agradecimento ao Alexandre Elias pelo resumo abaixo
 
 Dev possuir a vers
 
