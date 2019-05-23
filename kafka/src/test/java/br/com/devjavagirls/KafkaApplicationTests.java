@@ -1,4 +1,4 @@
-package br.com.cielo;
+package br.com.devjavagirls;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
