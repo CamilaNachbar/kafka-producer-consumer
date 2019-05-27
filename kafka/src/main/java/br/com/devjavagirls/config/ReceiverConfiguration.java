@@ -18,7 +18,7 @@ import org.springframework.kafka.core.DefaultKafkaConsumerFactory;
 import org.springframework.kafka.listener.ConcurrentMessageListenerContainer;
 
 /**
- * @author Camila Nachbar - cshebling@stefanini.com - 62106 22 de mai de 2019
+ * @author Camila Nachbar - camila.nachbar@gmail.com - 62106 22 de mai de 2019
  */
 @Configuration
 public class ReceiverConfiguration {

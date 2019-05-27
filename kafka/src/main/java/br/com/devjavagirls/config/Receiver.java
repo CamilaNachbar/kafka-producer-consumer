@@ -8,7 +8,7 @@ import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.messaging.handler.annotation.Payload;
 
 /**
- * @author Camila Nachbar - cshebling@stefanini.com - 62106 17 de mai de 2019
+ * @author Camila Nachbar - camila.nachbar@gmail.com -  17 de mai de 2019
  */
 @EnableKafka
 @Configuration
